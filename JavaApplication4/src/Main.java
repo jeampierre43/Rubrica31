@@ -24,6 +24,11 @@ public class Main {
         
     }
     
+    public int suma(int n1, int n2){
+        int resul = n1+n2;
+        return resul;
+        
+    }
     
     
     
